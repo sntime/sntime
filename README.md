@@ -1,4 +1,4 @@
-# Profile 👋
+# Profile
 ![img_me](img/ThisMe.jpg)
 
 ## About Me 😀
