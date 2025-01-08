@@ -8,8 +8,7 @@
 
 ## 💡Key Skills
 **Haed Skills**
-- Languages: Python, C, C++, Java, JavaScript 
-- Markup & Styling: HTML, CSS,
+- Languages: Python, C, C++, Java, HTML, CSS, JavaScript
 - Frameworks & Libraries: React.js
 - Tools: Git, VS Code, Figma, Tableau, PowerBI
   
