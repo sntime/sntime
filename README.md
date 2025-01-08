@@ -72,7 +72,6 @@
   - แสดงโครงสร้างของระบบ เช่น User, TaxForm, Payment, และ Document
 - UX/UI Design:
   - ออกแบบอินเทอร์เฟซให้ใช้งานง่าย ทั้งสำหรับผู้ใช้งานทั่วไปและเจ้าหน้าที่
-
 ### [Figma](https://shorturl.asia/OUbDi)
 
 
